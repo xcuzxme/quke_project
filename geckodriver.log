@@ -1,0 +1,1346 @@
+1670611755474	geckodriver	INFO	Listening on 127.0.0.1:44914
+1670611758553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "44915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileITRbFr"
+1670611759292	Marionette	INFO	Marionette enabled
+1670611759300	Marionette	INFO	Listening on port 44930
+Read port: 44930
+WebDriver BiDi listening on ws://127.0.0.1:44915
+1670611759478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileITRbFr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44915/devtools/browser/91bf8811-4fe0-49fb-9818-50dbcb6563ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670611787449	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670611794826	Marionette	INFO	Stopped listening on port 44930
+1670611852325	geckodriver	INFO	Listening on 127.0.0.1:45028
+1670611855361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "45029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileYxDfVe"
+1670611856079	Marionette	INFO	Marionette enabled
+1670611856086	Marionette	INFO	Listening on port 45042
+Read port: 45042
+WebDriver BiDi listening on ws://127.0.0.1:45029
+1670611857069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileYxDfVe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45029/devtools/browser/a0885a58-5111-4950-a7bd-02fefd6ee3a9
+1670611929892	Marionette	INFO	Stopped listening on port 45042
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670611990020	geckodriver	INFO	Listening on 127.0.0.1:45149
+1670611993083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "45150" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilehFWk9w"
+1670611993811	Marionette	INFO	Marionette enabled
+1670611993820	Marionette	INFO	Listening on port 45161
+Read port: 45161
+WebDriver BiDi listening on ws://127.0.0.1:45150
+1670611994022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilehFWk9w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45150/devtools/browser/76c19a1a-cf6e-4963-b4b0-39237f120081
+1670612040228	Marionette	INFO	Stopped listening on port 45161
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670612189298	geckodriver	INFO	Listening on 127.0.0.1:45304
+1670612192370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "45305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHNCvWR"
+1670612193039	Marionette	INFO	Marionette enabled
+1670612193047	Marionette	INFO	Listening on port 45315
+Read port: 45315
+WebDriver BiDi listening on ws://127.0.0.1:45305
+1670612193191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHNCvWR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45305/devtools/browser/2ddf2d2d-c32f-465e-b387-ecb420a4de1e
+1670612336313	Marionette	INFO	Stopped listening on port 45315
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670612460456	geckodriver	INFO	Listening on 127.0.0.1:45453
+1670612478283	geckodriver	INFO	Listening on 127.0.0.1:45466
+1670612481316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "45467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileQYMAIZ"
+1670612481963	Marionette	INFO	Marionette enabled
+1670612481971	Marionette	INFO	Listening on port 45478
+Read port: 45478
+WebDriver BiDi listening on ws://127.0.0.1:45467
+1670612482118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileQYMAIZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45467/devtools/browser/08430a68-370e-4073-9cfa-b543f99f4d16
+1670612529402	Marionette	INFO	Stopped listening on port 45478
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670612863653	geckodriver	INFO	Listening on 127.0.0.1:45686
+1670612866736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "45687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWDNwfJ"
+1670612867433	Marionette	INFO	Marionette enabled
+1670612867440	Marionette	INFO	Listening on port 45699
+Read port: 45699
+WebDriver BiDi listening on ws://127.0.0.1:45687
+1670612867618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWDNwfJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45687/devtools/browser/e3a1cdcb-42ca-42c2-9f20-f8c80f776605
+1670613013604	Marionette	INFO	Stopped listening on port 45699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670613235044	geckodriver	INFO	Listening on 127.0.0.1:45879
+1670613238100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "45880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileqRNwyy"
+1670613238804	Marionette	INFO	Marionette enabled
+1670613238813	Marionette	INFO	Listening on port 45892
+Read port: 45892
+WebDriver BiDi listening on ws://127.0.0.1:45880
+1670613238982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileqRNwyy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45880/devtools/browser/39f576be-4af9-4905-8a4f-1e1faec49f6e
+1670613263192	Marionette	INFO	Stopped listening on port 45892
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670613948965	geckodriver	INFO	Listening on 127.0.0.1:46326
+1670613951997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "46327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilesl23gq"
+1670613952714	Marionette	INFO	Marionette enabled
+1670613952724	Marionette	INFO	Listening on port 46337
+Read port: 46337
+WebDriver BiDi listening on ws://127.0.0.1:46327
+1670613952935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilesl23gq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46327/devtools/browser/8c26717a-2ef7-410c-8803-89c6b76bbab9
+1670613979938	Marionette	INFO	Stopped listening on port 46337
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 36944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670614060259	geckodriver	INFO	Listening on 127.0.0.1:46432
+1670614063312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "46433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileBDnwid"
+1670614064584	Marionette	INFO	Marionette enabled
+1670614064598	Marionette	INFO	Listening on port 46444
+Read port: 46444
+WebDriver BiDi listening on ws://127.0.0.1:46433
+1670614064847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileBDnwid\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46433/devtools/browser/06f310ca-3262-4691-b7c4-7e02784d94eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670614083539	Marionette	INFO	Stopped listening on port 46444
+1670614828431	geckodriver	INFO	Listening on 127.0.0.1:46711
+1670614831467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "46712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUkC5RM"
+1670614832087	Marionette	INFO	Marionette enabled
+1670614832095	Marionette	INFO	Listening on port 46723
+Read port: 46723
+WebDriver BiDi listening on ws://127.0.0.1:46712
+1670614832309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUkC5RM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46712/devtools/browser/2ac2908b-fcc0-4d30-ab23-b898c5d69c6f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+[Parent 38648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670614904267	Marionette	INFO	Stopped listening on port 46723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670615173365	geckodriver	INFO	Listening on 127.0.0.1:46892
+1670615176432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "46893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile31Dnwi"
+1670615177100	Marionette	INFO	Marionette enabled
+1670615177106	Marionette	INFO	Listening on port 46903
+Read port: 46903
+WebDriver BiDi listening on ws://127.0.0.1:46893
+1670615177263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile31Dnwi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46893/devtools/browser/8443ab06-d514-4137-872d-b84ca86b945d
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524800, w=896, h=402)
+[GFX1-]: Handling [GFX1-]: DCompositionwSurfebrendace::BeginDeraw failed: 0x8007000e Rr erroect(x=524288r 4,
+ y=524394, w=1024, [h=406GFX1-])
+: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0005, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1290
+#01: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x472129a]
+#02: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x4723cc2]
+#03: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1d4c998]
+#04: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1d27633]
+#05: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x13e3dc2]
+#06: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x4dcb6]
+#07: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1c8b877]
+#08: ??? (???:???)
+1670615188398	RemoteAgent	WARN	Problem pretty printing:: out of memory
+1670615189410	RemoteAgent	WARN	Problem pretty printing:: out of memory
+out of memory: 0x0000000000100000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+1670615238140	geckodriver	INFO	Listening on 127.0.0.1:46979
+1670615241194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "46980" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUB4rYy"
+1670615241705	Marionette	INFO	Marionette enabled
+1670615241711	Marionette	INFO	Listening on port 46989
+Read port: 46989
+WebDriver BiDi listening on ws://127.0.0.1:46980
+1670615241822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUB4rYy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46980/devtools/browser/8c92b828-5081-43b5-bfe7-7a63d45973a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670615256355	Marionette	INFO	Stopped listening on port 46989
+1670615292650	geckodriver	INFO	Listening on 127.0.0.1:47057
+1670615295694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "47058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileLFx6qW"
+1670615296087	Marionette	INFO	Marionette enabled
+1670615296093	Marionette	INFO	Listening on port 47070
+Read port: 47070
+WebDriver BiDi listening on ws://127.0.0.1:47058
+1670615296218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileLFx6qW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47058/devtools/browser/d1113039-b589-4d5d-a57d-e672abca004f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670615312769	Marionette	INFO	Stopped listening on port 47070
+1670618279475	geckodriver	INFO	Listening on 127.0.0.1:48723
+1670618282825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "48724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile2Jr2AF"
+1670618284030	Marionette	INFO	Marionette enabled
+1670618284044	Marionette	INFO	Listening on port 48736
+Read port: 48736
+WebDriver BiDi listening on ws://127.0.0.1:48724
+1670618284335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile2Jr2AF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48724/devtools/browser/6989d177-035f-41d7-9103-441842de711c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670618317879	Marionette	INFO	Stopped listening on port 48736
+1670618521532	geckodriver	INFO	Listening on 127.0.0.1:48867
+1670618524803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "48868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilejoT63c"
+1670618525804	Marionette	INFO	Marionette enabled
+1670618525816	Marionette	INFO	Listening on port 48879
+Read port: 48879
+WebDriver BiDi listening on ws://127.0.0.1:48868
+1670618526074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilejoT63c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48868/devtools/browser/a99f4a9a-7445-48e0-8fe6-c8402dd43f86
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670618555288	Marionette	INFO	Stopped listening on port 48879
+1670618795456	geckodriver	INFO	Listening on 127.0.0.1:49209
+1670618798809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileg6Byqt"
+1670618799786	Marionette	INFO	Marionette enabled
+1670618799800	Marionette	INFO	Listening on port 49235
+Read port: 49235
+WebDriver BiDi listening on ws://127.0.0.1:49210
+1670618800066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileg6Byqt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49210/devtools/browser/005828a6-e67a-432c-b6c4-6ce6ed961046
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670618830785	Marionette	INFO	Stopped listening on port 49235
+1670620549111	geckodriver	INFO	Listening on 127.0.0.1:49821
+1670620552435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJZRyH1"
+1670620553520	Marionette	INFO	Marionette enabled
+1670620553531	Marionette	INFO	Listening on port 49834
+Read port: 49834
+WebDriver BiDi listening on ws://127.0.0.1:49822
+1670620553795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJZRyH1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49822/devtools/browser/4df261fb-24fd-441e-bf9c-a9cc6be4568b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670620585763	Marionette	INFO	Stopped listening on port 49834
+1670620715525	geckodriver	INFO	Listening on 127.0.0.1:49946
+1670620718892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRknjz5"
+1670620719959	Marionette	INFO	Marionette enabled
+1670620719972	Marionette	INFO	Listening on port 49960
+Read port: 49960
+WebDriver BiDi listening on ws://127.0.0.1:49947
+1670620720242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRknjz5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49947/devtools/browser/a1e6baa3-d908-476f-bae4-583d970f8a9e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670620739698	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670620771105	Marionette	INFO	Stopped listening on port 49960
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670620826037	geckodriver	INFO	Listening on 127.0.0.1:50055
+1670620829312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileaHEYQr"
+1670620830276	Marionette	INFO	Marionette enabled
+1670620830288	Marionette	INFO	Listening on port 50066
+Read port: 50066
+WebDriver BiDi listening on ws://127.0.0.1:50056
+1670620830551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileaHEYQr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50056/devtools/browser/d4bed5a6-6e96-4869-8e52-ba5398c8fa9e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670620880468	Marionette	INFO	Stopped listening on port 50066
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670623411817	geckodriver	INFO	Listening on 127.0.0.1:51692
+1670623415283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZtI5Yg"
+1670623416443	Marionette	INFO	Marionette enabled
+1670623416458	Marionette	INFO	Listening on port 51707
+Read port: 51707
+WebDriver BiDi listening on ws://127.0.0.1:51693
+1670623416758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZtI5Yg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51693/devtools/browser/26c2bfd7-2839-44cb-ba97-a99449bf7aec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670623586520	Marionette	INFO	Stopped listening on port 51707
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670623599417	geckodriver	INFO	Listening on 127.0.0.1:51833
+1670623602780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileBcwpXC"
+1670623603782	Marionette	INFO	Marionette enabled
+1670623603795	Marionette	INFO	Listening on port 51845
+Read port: 51845
+WebDriver BiDi listening on ws://127.0.0.1:51834
+1670623604328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileBcwpXC\\search.json.mozlz4", (void 0)))
+1670623608465	Marionette	INFO	Stopped listening on port 51845
+1670623608489	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+1670623700688	geckodriver	INFO	Listening on 127.0.0.1:51881
+1670623703920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51882" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilelqahLn"
+1670623704951	Marionette	INFO	Marionette enabled
+1670623704971	Marionette	INFO	Listening on port 51893
+Read port: 51893
+WebDriver BiDi listening on ws://127.0.0.1:51882
+1670623705262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilelqahLn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51882/devtools/browser/b0338fab-9dac-4375-8a41-ed5bf6992e73
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670623753861	Marionette	INFO	Stopped listening on port 51893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670624537702	geckodriver	INFO	Listening on 127.0.0.1:52460
+1670624540923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileVzLSdC"
+1670624542068	Marionette	INFO	Marionette enabled
+1670624542083	Marionette	INFO	Listening on port 52471
+Read port: 52471
+WebDriver BiDi listening on ws://127.0.0.1:52461
+1670624542377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileVzLSdC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52461/devtools/browser/6658a409-9184-4518-9267-b52c85671320
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670624562240	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+1670624574769	Marionette	INFO	Stopped listening on port 52471
+[Parent 28448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670624897315	geckodriver	INFO	Listening on 127.0.0.1:52758
+1670624900714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilenBuMhX"
+1670624901692	Marionette	INFO	Marionette enabled
+1670624901704	Marionette	INFO	Listening on port 52773
+Read port: 52773
+WebDriver BiDi listening on ws://127.0.0.1:52759
+1670624901991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilenBuMhX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52759/devtools/browser/4424e9ee-b18a-4533-a577-732bc27235fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+1670624933993	Marionette	INFO	Stopped listening on port 52773
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670624996804	geckodriver	INFO	Listening on 127.0.0.1:52868
+1670625000062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilet2Ogaz"
+1670625001177	Marionette	INFO	Marionette enabled
+1670625001190	Marionette	INFO	Listening on port 52880
+Read port: 52880
+WebDriver BiDi listening on ws://127.0.0.1:52869
+1670625001472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilet2Ogaz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52869/devtools/browser/33cf6db5-0ef1-4c82-9bd1-afb6161933d0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670625034280	Marionette	INFO	Stopped listening on port 52880
+1670625083761	geckodriver	INFO	Listening on 127.0.0.1:52975
+1670625087263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52976" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFVCFT8"
+1670625088297	Marionette	INFO	Marionette enabled
+1670625088310	Marionette	INFO	Listening on port 52985
+Read port: 52985
+WebDriver BiDi listening on ws://127.0.0.1:52976
+1670625088585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFVCFT8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52976/devtools/browser/e1bc9e38-bdf1-4709-b3a8-de0102fb33cb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+1670625122051	Marionette	INFO	Stopped listening on port 52985
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670625243351	geckodriver	INFO	Listening on 127.0.0.1:53197
+1670625246520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileU53WgM"
+1670625247564	Marionette	INFO	Marionette enabled
+1670625247576	Marionette	INFO	Listening on port 53209
+Read port: 53209
+WebDriver BiDi listening on ws://127.0.0.1:53198
+1670625247832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileU53WgM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53198/devtools/browser/823b7c5e-a871-4029-a07a-e53e366ec49a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670625295099	Marionette	INFO	Stopped listening on port 53209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670625351111	geckodriver	INFO	Listening on 127.0.0.1:53310
+1670625354325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileogwVtF"
+1670625355302	Marionette	INFO	Marionette enabled
+1670625355315	Marionette	INFO	Listening on port 53321
+Read port: 53321
+WebDriver BiDi listening on ws://127.0.0.1:53311
+1670625355578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileogwVtF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53311/devtools/browser/c6d1cfcf-6285-4642-982b-b3d4b2898a8a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670625455117	Marionette	INFO	Stopped listening on port 53321
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670625532886	geckodriver	INFO	Listening on 127.0.0.1:53472
+1670625536076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileBetnK4"
+1670625537100	Marionette	INFO	Marionette enabled
+1670625537115	Marionette	INFO	Listening on port 53483
+Read port: 53483
+WebDriver BiDi listening on ws://127.0.0.1:53473
+1670625537383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileBetnK4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53473/devtools/browser/6dce0c72-4d51-4ea5-9b7b-8d19598b839b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+1670625574567	Marionette	INFO	Stopped listening on port 53483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670625603994	geckodriver	INFO	Listening on 127.0.0.1:53579
+1670625607388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilepS0tJQ"
+1670625608430	Marionette	INFO	Marionette enabled
+1670625608441	Marionette	INFO	Listening on port 53590
+Read port: 53590
+WebDriver BiDi listening on ws://127.0.0.1:53580
+1670625608698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilepS0tJQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53580/devtools/browser/f1dc201a-bb47-4ba1-8474-b201177295ad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670625674014	geckodriver	INFO	Listening on 127.0.0.1:53680
+1670625677289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileuP2I2B"
+1670625678282	Marionette	INFO	Marionette enabled
+1670625678294	Marionette	INFO	Listening on port 53691
+Read port: 53691
+WebDriver BiDi listening on ws://127.0.0.1:53681
+1670625678560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileuP2I2B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53681/devtools/browser/bdf0eab3-a50d-4bc5-b832-c9a2e680e5cf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+1670625740663	Marionette	INFO	Stopped listening on port 53691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670625801213	geckodriver	INFO	Listening on 127.0.0.1:53801
+1670625804452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileOEv9wf"
+1670625805548	Marionette	INFO	Marionette enabled
+1670625805561	Marionette	INFO	Listening on port 53813
+Read port: 53813
+WebDriver BiDi listening on ws://127.0.0.1:53802
+1670625805832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileOEv9wf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53802/devtools/browser/a53c1872-31a3-4ba3-868b-9a9508521ffb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670625844244	Marionette	INFO	Stopped listening on port 53813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670625900263	geckodriver	INFO	Listening on 127.0.0.1:53929
+1670625903286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileh7Vdpp"
+1670625904316	Marionette	INFO	Marionette enabled
+1670625904330	Marionette	INFO	Listening on port 53942
+Read port: 53942
+WebDriver BiDi listening on ws://127.0.0.1:53930
+1670625904593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileh7Vdpp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53930/devtools/browser/2dccb069-1ecf-42b5-a0ca-2a34aa3a54e7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670625956568	Marionette	INFO	Stopped listening on port 53942
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670625983718	geckodriver	INFO	Listening on 127.0.0.1:54041
+1670625986918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileuEFXLZ"
+1670625987986	Marionette	INFO	Marionette enabled
+1670625987998	Marionette	INFO	Listening on port 54051
+Read port: 54051
+WebDriver BiDi listening on ws://127.0.0.1:54042
+1670625988278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileuEFXLZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54042/devtools/browser/1cfc96b4-3d77-4eb3-b402-0386f2a2d0c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670626063686	geckodriver	INFO	Listening on 127.0.0.1:54153
+1670626066729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileKRMq3e"
+1670626067853	Marionette	INFO	Marionette enabled
+1670626067867	Marionette	INFO	Listening on port 54165
+Read port: 54165
+WebDriver BiDi listening on ws://127.0.0.1:54154
+1670626068156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileKRMq3e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54154/devtools/browser/a4284ee4-3173-4c49-87ec-7b50eb0c5918
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670626099963	Marionette	INFO	Stopped listening on port 54165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670626107190	geckodriver	INFO	Listening on 127.0.0.1:54265
+1670626110413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile4xY0D1"
+1670626111477	Marionette	INFO	Marionette enabled
+1670626111489	Marionette	INFO	Listening on port 54275
+Read port: 54275
+WebDriver BiDi listening on ws://127.0.0.1:54266
+1670626111765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile4xY0D1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54266/devtools/browser/d91a892c-1a1f-41cb-8c33-7da359ec849b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 297: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670627762490	geckodriver	INFO	Listening on 127.0.0.1:55244
+1670627765629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilegjKZbq"
+1670627766802	Marionette	INFO	Marionette enabled
+1670627766814	Marionette	INFO	Listening on port 55255
+Read port: 55255
+WebDriver BiDi listening on ws://127.0.0.1:55245
+1670627767083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilegjKZbq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55245/devtools/browser/23ef148b-85c5-448e-8fa6-28e7da2bccec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670627833674	Marionette	INFO	Stopped listening on port 55255
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 40140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 40140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670628041565	geckodriver	INFO	Listening on 127.0.0.1:55395
+1670628044995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55396" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilePYUz7Z"
+1670628046039	Marionette	INFO	Marionette enabled
+1670628046052	Marionette	INFO	Listening on port 55408
+Read port: 55408
+WebDriver BiDi listening on ws://127.0.0.1:55396
+1670628046348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilePYUz7Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55396/devtools/browser/2acd0269-dba7-4093-9d0f-6678dbd9842f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670628089171	Marionette	INFO	Stopped listening on port 55408
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 46708, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670628290670	geckodriver	INFO	Listening on 127.0.0.1:55545
+1670628293995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55546" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileSHWOcN"
+1670628295040	Marionette	INFO	Marionette enabled
+1670628295053	Marionette	INFO	Listening on port 55559
+Read port: 55559
+WebDriver BiDi listening on ws://127.0.0.1:55546
+1670628295322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileSHWOcN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55546/devtools/browser/a91c127f-90a7-4186-8886-4df5911bf7e3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670628336538	Marionette	INFO	Stopped listening on port 55559
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 44872, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670628630848	geckodriver	INFO	Listening on 127.0.0.1:55720
+1670628634198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilemc3cFQ"
+1670628635194	Marionette	INFO	Marionette enabled
+1670628635205	Marionette	INFO	Listening on port 55732
+Read port: 55732
+WebDriver BiDi listening on ws://127.0.0.1:55721
+1670628635477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilemc3cFQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55721/devtools/browser/fa7b6265-8841-4517-a6b7-a6540b73aa71
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670628668508	Marionette	INFO	Stopped listening on port 55732
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670628838298	geckodriver	INFO	Listening on 127.0.0.1:55849
+1670628841794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55850" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiaSvWO"
+1670628842866	Marionette	INFO	Marionette enabled
+1670628842881	Marionette	INFO	Listening on port 55862
+Read port: 55862
+WebDriver BiDi listening on ws://127.0.0.1:55850
+1670628843158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiaSvWO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55850/devtools/browser/7418fe73-d923-4877-ac60-894f63344f9e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670628874869	Marionette	INFO	Stopped listening on port 55862
+1670629039502	geckodriver	INFO	Listening on 127.0.0.1:55984
+1670629042872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWzqHKR"
+1670629043842	Marionette	INFO	Marionette enabled
+1670629043856	Marionette	INFO	Listening on port 55997
+Read port: 55997
+WebDriver BiDi listening on ws://127.0.0.1:55985
+1670629044126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWzqHKR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55985/devtools/browser/97ac31ae-d3c2-45cc-9a4d-67f255db1052
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670629076732	Marionette	INFO	Stopped listening on port 55997
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670629084452	geckodriver	INFO	Listening on 127.0.0.1:56101
+1670629087804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileCDrXyt"
+1670629088741	Marionette	INFO	Marionette enabled
+1670629088754	Marionette	INFO	Listening on port 56112
+Read port: 56112
+WebDriver BiDi listening on ws://127.0.0.1:56102
+1670629089050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileCDrXyt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56102/devtools/browser/776d9a7a-cc70-4e39-8286-b36b972eb93c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670629122753	Marionette	INFO	Stopped listening on port 56112
+1670629373831	geckodriver	INFO	Listening on 127.0.0.1:56265
+1670629377196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilehx3yB6"
+1670629378163	Marionette	INFO	Marionette enabled
+1670629378176	Marionette	INFO	Listening on port 56279
+Read port: 56279
+WebDriver BiDi listening on ws://127.0.0.1:56266
+1670629378475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilehx3yB6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56266/devtools/browser/d1d58916-11f6-4801-a9a1-2dd275ef9057
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670629421591	Marionette	INFO	Stopped listening on port 56279
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670629498276	geckodriver	INFO	Listening on 127.0.0.1:56378
+1670629501514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileOqfpQJ"
+1670629502475	Marionette	INFO	Marionette enabled
+1670629502488	Marionette	INFO	Listening on port 56391
+Read port: 56391
+WebDriver BiDi listening on ws://127.0.0.1:56379
+1670629502759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileOqfpQJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56379/devtools/browser/5ccd910d-20e5-4417-bb6a-333c54346251
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Unable to find target with innerWindowId:4294967306"
+console.error: "Unable to find target with innerWindowId:4294967306"
+console.error: "Unable to find target with innerWindowId:4294967306"
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670629831775	Marionette	INFO	Stopped listening on port 56391
+\rust_mozprofileAS9TR7"
+1670629769042	Marionette	INFO	Marionette enabled
+1670629769055	Marionette	INFO	Listening on port 56736
+Read port: 56736
+WebDriver BiDi listening on ws://127.0.0.1:56725
+1670629769342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileAS9TR7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56725/devtools/browser/525f928a-ce2b-48bf-adbc-fe3e1896d38b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670629832489	Marionette	INFO	Stopped listening on port 56736
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670629837235	geckodriver	INFO	Listening on 127.0.0.1:56834
+1670629840605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRbT0aJ"
+1670629841588	Marionette	INFO	Marionette enabled
+1670629841600	Marionette	INFO	Listening on port 56845
+Read port: 56845
+WebDriver BiDi listening on ws://127.0.0.1:56835
+1670629841877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRbT0aJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56835/devtools/browser/c9976a29-dac6-4804-82c4-8429771b088a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670629904184	Marionette	INFO	Stopped listening on port 56845
+1670630401824	geckodriver	INFO	Listening on 127.0.0.1:57059
+1670630405302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57060" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileovy62e"
+1670630406268	Marionette	INFO	Marionette enabled
+1670630406286	Marionette	INFO	Listening on port 57076
+Read port: 57076
+WebDriver BiDi listening on ws://127.0.0.1:57060
+1670630406567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileovy62e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57060/devtools/browser/c1ae8dd6-2ff3-4aa9-b381-248ab53c0015
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670630467113	Marionette	INFO	Stopped listening on port 57076
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670630517459	geckodriver	INFO	Listening on 127.0.0.1:57177
+1670630520816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiledvTISx"
+1670630521798	Marionette	INFO	Marionette enabled
+1670630521811	Marionette	INFO	Listening on port 57188
+Read port: 57188
+WebDriver BiDi listening on ws://127.0.0.1:57178
+1670630522120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiledvTISx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57178/devtools/browser/a393d673-ca1d-4bc3-ac5a-1e3eac56491e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670630563495	Marionette	INFO	Stopped listening on port 57188
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20348, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670630607517	geckodriver	INFO	Listening on 127.0.0.1:57276
+1670630610884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileIQit15"
+1670630611869	Marionette	INFO	Marionette enabled
+1670630611881	Marionette	INFO	Listening on port 57286
+Read port: 57286
+WebDriver BiDi listening on ws://127.0.0.1:57277
+1670630612143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileIQit15\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57277/devtools/browser/4aac2024-dc81-47d2-98bd-4f1af4766e06
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670630640781	Marionette	INFO	Stopped listening on port 57286
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670630645546	geckodriver	INFO	Listening on 127.0.0.1:57392
+1670630648700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZJTTC8"
+1670630649684	Marionette	INFO	Marionette enabled
+1670630649697	Marionette	INFO	Listening on port 57402
+Read port: 57402
+WebDriver BiDi listening on ws://127.0.0.1:57393
+1670630649972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZJTTC8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57393/devtools/browser/aca31487-fe56-4249-b7a5-761ed07373fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670630669346	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670667319829	geckodriver	INFO	Listening on 127.0.0.1:59754
+1670667323163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHIa969"
+1670667324336	Marionette	INFO	Marionette enabled
+1670667324350	Marionette	INFO	Listening on port 59766
+Read port: 59766
+WebDriver BiDi listening on ws://127.0.0.1:59755
+1670667324651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHIa969\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59755/devtools/browser/9c0b753d-bc38-413e-8521-ee68b6774548
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670667778450	Marionette	INFO	Stopped listening on port 59766
+\rust_mozprofileOay6Ow"
+1670667528453	Marionette	INFO	Marionette enabled
+1670667528465	Marionette	INFO	Listening on port 59918
+Read port: 59918
+WebDriver BiDi listening on ws://127.0.0.1:59906
+1670667528731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileOay6Ow\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59906/devtools/browser/727127c8-d44b-42ff-9989-f57208611b1c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670667556744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670668673907	Marionette	INFO	Stopped listening on port 59918
+[Parent 46160, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rs will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileaKDhfH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60276/devtools/browser/e55d7ba7-ea48-4b08-84a5-390f69167ab8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670668370679	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670668380271	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670668388903	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670668400702	Marionette	INFO	Stopped listening on port 60287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670668417798	geckodriver	INFO	Listening on 127.0.0.1:60383
+1670668420939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileBd9QHR"
+1670668422053	Marionette	INFO	Marionette enabled
+1670668422066	Marionette	INFO	Listening on port 60395
+Read port: 60395
+WebDriver BiDi listening on ws://127.0.0.1:60384
+1670668422330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileBd9QHR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60384/devtools/browser/e2ffc252-e704-4a4b-b7b3-a19448e9d6e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670668449471	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670668458236	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-MW2SN68, line 36: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-MW2SN68, line 36: uncaught exception: [object Object]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670670362126	Marionette	INFO	Stopped listening on port 60395
+[Parent 13056, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rs will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileQuxmAm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61095/devtools/browser/9fd2a7a0-108c-4b03-b6a3-881020764f73
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670670281048	Marionette	INFO	Stopped listening on port 61108
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15468, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670670286467	geckodriver	INFO	Listening on 127.0.0.1:61200
+1670670289521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilePd5rBj"
+1670670290728	Marionette	INFO	Marionette enabled
+1670670290739	Marionette	INFO	Listening on port 61210
+Read port: 61210
+WebDriver BiDi listening on ws://127.0.0.1:61201
+1670670290955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilePd5rBj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61201/devtools/browser/3de4c9e2-542d-45a0-a6c9-a72d3421d377
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670670325998	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670670338197	Marionette	INFO	Stopped listening on port 61210
+1670670366926	geckodriver	INFO	Listening on 127.0.0.1:61304
+1670670370302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileipV3Vm"
+1670670371237	Marionette	INFO	Marionette enabled
+1670670371247	Marionette	INFO	Listening on port 61316
+Read port: 61316
+WebDriver BiDi listening on ws://127.0.0.1:61305
+1670670371509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileipV3Vm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61305/devtools/browser/03271760-5b10-4908-8f21-8978b6c13547
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670670401078	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670670409485	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670670692703	Marionette	INFO	Stopped listening on port 61316
+\rust_mozprofile30MKrj"
+1670670625071	Marionette	INFO	Marionette enabled
+1670670625086	Marionette	INFO	Listening on port 61485
+Read port: 61485
+WebDriver BiDi listening on ws://127.0.0.1:61472
+1670670625385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile30MKrj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61472/devtools/browser/c5e58e7a-d283-4eb1-9c67-f341e02a40eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670670682752	Marionette	INFO	Stopped listening on port 61485
+[Parent 17472, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670670690211	geckodriver	INFO	Listening on 127.0.0.1:61576
+1670670693590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMYxW4n"
+1670670694595	Marionette	INFO	Marionette enabled
+1670670694608	Marionette	INFO	Listening on port 61587
+Read port: 61587
+WebDriver BiDi listening on ws://127.0.0.1:61577
+1670670694881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMYxW4n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61577/devtools/browser/caa86cb8-58e3-4f64-b0f7-bed26db47fa9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 966))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:966:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:203:10
+onDetached@resource://devtools/client/inspector/inspector.js:1685:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2353))
+JavaScript error: resource://devtools/shared/protocol/Front/FrontClassWithSpec.js, line 28: Error: Can not send request 'cancelPickColorFromPage' because front 'inspector' is already destroyed.
+JavaScript error: resource://devtools/shared/protocol/Front/FrontClassWithSpec.js, line 28: Error: Can not send request 'cancelPickColorFromPage' because front 'inspector' is already destroyed.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670670993545	Marionette	INFO	Stopped listening on port 61587
+1670671003444	geckodriver	INFO	Listening on 127.0.0.1:61811
+1670671006718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilePB5XXV"
+1670671007752	Marionette	INFO	Marionette enabled
+1670671007764	Marionette	INFO	Listening on port 61823
+Read port: 61823
+WebDriver BiDi listening on ws://127.0.0.1:61812
+1670671008053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilePB5XXV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61812/devtools/browser/f14fbb4e-be92-4acf-b0b1-417c65c1244a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670671060493	Marionette	INFO	Stopped listening on port 61823
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670671064865	geckodriver	INFO	Listening on 127.0.0.1:61912
+1670671068276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilewIHIPs"
+1670671069295	Marionette	INFO	Marionette enabled
+1670671069309	Marionette	INFO	Listening on port 61922
+Read port: 61922
+WebDriver BiDi listening on ws://127.0.0.1:61913
+1670671069580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilewIHIPs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61913/devtools/browser/b5c1403a-f90b-4435-90c2-a6eef3bd0f40
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670671099831	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670671108193	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670671128453	Marionette	INFO	Stopped listening on port 61922
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670671145738	geckodriver	INFO	Listening on 127.0.0.1:62020
+1670671149090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile2m5SYB"
+1670671150097	Marionette	INFO	Marionette enabled
+1670671150110	Marionette	INFO	Listening on port 62032
+Read port: 62032
+WebDriver BiDi listening on ws://127.0.0.1:62021
+1670671150371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile2m5SYB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62021/devtools/browser/d0b1ed69-58ff-43c2-abd6-4c779ee0e478
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670671178260	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670671186541	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670671520912	Marionette	INFO	Stopped listening on port 62032
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRJqEGe"
+1670671234761	Marionette	INFO	Marionette enabled
+1670671234776	Marionette	INFO	Listening on port 62137
+Read port: 62137
+WebDriver BiDi listening on ws://127.0.0.1:62127
+1670671235056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRJqEGe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62127/devtools/browser/c0fbb804-d5e8-4107-8ad7-e41555758006
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670671292586	Marionette	INFO	Stopped listening on port 62137
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670671327394	geckodriver	INFO	Listening on 127.0.0.1:62243
+1670671330991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileloa8vs"
+1670671332082	Marionette	INFO	Marionette enabled
+1670671332096	Marionette	INFO	Listening on port 62255
+Read port: 62255
+WebDriver BiDi listening on ws://127.0.0.1:62244
+1670671332376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileloa8vs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62244/devtools/browser/0c6700ad-0716-46b1-86f8-23e3d241b4fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670671520280	Marionette	INFO	Stopped listening on port 62255
+1670671541265	geckodriver	INFO	Listening on 127.0.0.1:62409
+1670671544621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiTfQYk"
+1670671545818	Marionette	INFO	Marionette enabled
+1670671545831	Marionette	INFO	Listening on port 62422
+Read port: 62422
+WebDriver BiDi listening on ws://127.0.0.1:62410
+1670671546112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiTfQYk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62410/devtools/browser/e0b9d0ae-7fad-45bb-8e53-3e881f3624ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670671565286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670671575077	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670671583403	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670672050016	Marionette	INFO	Stopped listening on port 62422
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilePAFOWH"
+1670671649925	Marionette	INFO	Marionette enabled
+1670671649938	Marionette	INFO	Listening on port 62538
+Read port: 62538
+WebDriver BiDi listening on ws://127.0.0.1:62525
+1670671650216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilePAFOWH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62525/devtools/browser/3f0d4db1-a88f-42b5-aec5-8f4f68755702
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670671679284	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670671687688	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670672049574	Marionette	INFO	Stopped listening on port 62538
+[Parent 27312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rs will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileaVCLCq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62693/devtools/browser/43def50c-823c-4920-8a2e-2aafc62c780e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670672046746	Marionette	INFO	Stopped listening on port 62704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670672077634	geckodriver	INFO	Listening on 127.0.0.1:62842
+1670672081011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileePIcgr"
+1670672082017	Marionette	INFO	Marionette enabled
+1670672082031	Marionette	INFO	Listening on port 62856
+Read port: 62856
+WebDriver BiDi listening on ws://127.0.0.1:62843
+1670672082309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileePIcgr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62843/devtools/browser/1bfdf6f3-1199-4a3f-964a-db3dabfd45ae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670672465365	Marionette	INFO	Stopped listening on port 62856
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 24680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\Temp\\rust_mozprofileMMeQFH"
+1670672240783	Marionette	INFO	Marionette enabled
+1670672240797	Marionette	INFO	Listening on port 63000
+Read port: 63000
+WebDriver BiDi listening on ws://127.0.0.1:62990
+1670672241089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMMeQFH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62990/devtools/browser/36a2ba74-0f38-4fb8-90c3-82d95e3e40bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670672269580	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670672278056	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670672464547	Marionette	INFO	Stopped listening on port 63000
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiqq0Qr"
+1670672335641	Marionette	INFO	Marionette enabled
+1670672335655	Marionette	INFO	Listening on port 63113
+Read port: 63113
+WebDriver BiDi listening on ws://127.0.0.1:63101
+1670672335924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiqq0Qr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63101/devtools/browser/383ca69d-701a-418c-aa8c-f43c5b402d27
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670672464061	Marionette	INFO	Stopped listening on port 63113
+1670672582694	geckodriver	INFO	Listening on 127.0.0.1:63334
+1670672585875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTjxoWZ"
+1670672586938	Marionette	INFO	Marionette enabled
+1670672586951	Marionette	INFO	Listening on port 63349
+Read port: 63349
+WebDriver BiDi listening on ws://127.0.0.1:63335
+1670672587242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTjxoWZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63335/devtools/browser/6dde7b3b-cf44-4d9f-bde2-d00448c666c6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670672616321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670672624629	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670673023416	Marionette	INFO	Stopped listening on port 63349
+\rust_mozprofile9P7sy4"
+1670672689994	Marionette	INFO	Marionette enabled
+1670672690008	Marionette	INFO	Listening on port 63480
+Read port: 63480
+WebDriver BiDi listening on ws://127.0.0.1:63471
+1670672690274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile9P7sy4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63471/devtools/browser/3f8f9f8a-971d-4ab1-ac9c-96b2583b6eb7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 966))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:966:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:203:10
+onDetached@resource://devtools/client/inspector/inspector.js:1685:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2353))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670673022525	Marionette	INFO	Stopped listening on port 63480
+e-debugging-port" "63615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZplBu2"
+1670672868445	Marionette	INFO	Marionette enabled
+1670672868458	Marionette	INFO	Listening on port 63626
+Read port: 63626
+WebDriver BiDi listening on ws://127.0.0.1:63615
+1670672868763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZplBu2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63615/devtools/browser/b3e36c54-5c44-4b84-9191-25212cdfa191
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670672896153	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670672903202	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670675111329	Marionette	INFO	Stopped listening on port 63626
+[Parent 35504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+3807
+Read port: 63807
+WebDriver BiDi listening on ws://127.0.0.1:63797
+1670673155907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileI9nLWg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63797/devtools/browser/c6639c86-93c1-49fa-ba4f-68707d9bab01
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+1670673175319	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670673185129	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670673193448	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670673208689	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670675109179	Marionette	INFO	Stopped listening on port 63807
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670675220503	geckodriver	INFO	Listening on 127.0.0.1:64424
+1670675223660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileITF0m3"
+1670675224773	Marionette	INFO	Marionette enabled
+1670675224786	Marionette	INFO	Listening on port 64438
+Read port: 64438
+WebDriver BiDi listening on ws://127.0.0.1:64425
+1670675225074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileITF0m3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64425/devtools/browser/f4715129-25ae-4e73-9dcd-b70325e0a112
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670675253683	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670675262241	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670675286154	Marionette	INFO	Stopped listening on port 64438
+1670676134033	geckodriver	INFO	Listening on 127.0.0.1:65198
+1670676137286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileaZY0hC"
+1670676138370	Marionette	INFO	Marionette enabled
+1670676138386	Marionette	INFO	Listening on port 65213
+Read port: 65213
+WebDriver BiDi listening on ws://127.0.0.1:65199
+1670676138671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileaZY0hC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65199/devtools/browser/c7fb4763-0362-4880-912d-1fa51d02cdfb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://quke.ru."
+JavaScript error: https://quke.ru/assets/js/filter_v2.js, line 342: TypeError: onChangeEventHandler(...) is not a function
+1670676169275	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670676177753	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670676201929	Marionette	INFO	Stopped listening on port 65213
